@@ -1,0 +1,224 @@
+{
+  "2015": [
+  {
+    "shortname": "上课纪律",
+    "question": "遵守教学纪律，无迟到、提前下课，上课拨手机等现象。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10, "back": 5 } },
+      { "text": "B.比较满意", "score": { "front": 8, "back": 4.25 } },
+      { "text": "C.基本满意", "score": { "front": 6, "back": 3.5 } },
+      { "text": "D.不太满意", "score": { "front": 4, "back": 3 } },
+      { "text": "E.非常不满意", "score": { "front": 2, "back": 2.5 } }
+    ]
+  },
+  {
+    "shortname": "上课热情",
+    "question": "老师在课堂上是否有热情，有一种想把知识交给你强烈的愿望与激情，没有仅仅是完成任务式的教学。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10, "back": 15 } },
+      { "text": "B.比较满意", "score": { "front": 8, "back": 12.75 } },
+      { "text": "C.基本满意", "score": { "front": 6, "back": 10.5 } },
+      { "text": "D.不太满意", "score": { "front": 4, "back": 9 } },
+      { "text": "E.非常不满意", "score": { "front": 2, "back": 7.5 } }
+    ]
+  },
+  {
+    "shortname": "备课充分",
+    "question": "老师是否备课充分，熟悉所教内容，无知识性错误。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10, "back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 8, "back": 8.5 } },
+      { "text": "C.基本满意", "score": { "front": 6, "back": 7 } },
+      { "text": "D.不太满意", "score": { "front": 4, "back": 6 } },
+      { "text": "E.非常不满意", "score": { "front": 2, "back": 5 } }
+    ]
+  },
+  {
+    "shortname": "讲课清晰",
+    "question": "老师是否讲课思路清晰，知识、概念的阐述是否清晰准确。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10, "back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 8, "back": 8.5 } },
+      { "text": "C.基本满意", "score": { "front": 6, "back": 7 } },
+      { "text": "D.不太满意", "score": { "front": 4, "back": 6 } },
+      { "text": "E.非常不满意", "score": { "front": 2, "back": 5 } }
+    ]
+  },
+  {
+    "shortname": "课程信息量",
+    "question": "老师上课课程信息量是否足够，课程内容充实。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10, "back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 8, "back": 8.5 } },
+      { "text": "C.基本满意", "score": { "front": 6, "back": 7 } },
+      { "text": "D.不太满意", "score": { "front": 4, "back": 6 } },
+      { "text": "E.非常不满意", "score": { "front": 2, "back": 5 } }
+    ]
+  },
+  {
+    "shortname": "课程深度",
+    "question": "老师对得点难点的讲解是否有深度。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10, "back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 8, "back": 8.5 } },
+      { "text": "C.基本满意", "score": { "front": 6, "back": 7 } },
+      { "text": "D.不太满意", "score": { "front": 4, "back": 6 } },
+      { "text": "E.非常不满意", "score": { "front": 2, "back": 5 } }
+    ]
+  },
+  {
+    "shortname": "关注学员消化",
+    "question": "老师在课堂上是否乐于提问，关注你的消化、吸收情况。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10, "back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 8, "back": 8.5 } },
+      { "text": "C.基本满意", "score": { "front": 6, "back": 7 } },
+      { "text": "D.不太满意", "score": { "front": 4, "back": 6 } },
+      { "text": "E.非常不满意", "score": { "front": 2, "back": 5 } }
+    ]
+  },
+  {
+    "shortname": "学生学习效果",
+    "question": "你对该老师所讲的课程内容消化、吸收情况如何，也就是学习效果如何。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10, "back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 8, "back": 8.5 } },
+      { "text": "C.基本满意", "score": { "front": 6, "back": 7 } },
+      { "text": "D.不太满意", "score": { "front": 4, "back": 6 } },
+      { "text": "E.非常不满意", "score": { "front": 2, "back": 5 } }
+    ]
+  },
+  {
+    "shortname": "激发能力",
+    "question": "老师在教学中能否激发学生的学习兴趣，发挥学生的学习主动性，培养学生独立思考和勇于创新的精神？也就是教师的激发能力如何。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10, "back": 5 } },
+      { "text": "B.比较满意", "score": { "front": 8, "back": 4.25 } },
+      { "text": "C.基本满意", "score": { "front": 6, "back": 3.5 } },
+      { "text": "D.不太满意", "score": { "front": 4, "back": 3 } },
+      { "text": "E.非常不满意", "score": { "front": 2, "back": 2.5 } }
+    ]
+  },
+  {
+    "shortname": "总体评价",
+    "question": "你对该授课老师的总体评价是？",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10, "back": 15 } },
+      { "text": "B.比较满意", "score": { "front": 8, "back": 12.75 } },
+      { "text": "C.基本满意", "score": { "front": 6, "back": 10.5 } },
+      { "text": "D.不太满意", "score": { "front": 4, "back": 9 } },
+      { "text": "E.非常不满意", "score": { "front": 2, "back": 7.5 } }
+    ]
+  }],
+  "2016":[
+  {
+    "shortname": "上课纪律",
+    "question": "遵守教学纪律，无迟到、提前下课，上课拨手机等现象。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10,"back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 7,"back": 7 } },
+      { "text": "C.基本满意", "score": { "front": 0,"back": 0 } },
+      { "text": "D.不太满意", "score": { "front": -5,"back": -5 } },
+      { "text": "E.非常不满意", "score": { "front": -10,"back": -10 } }
+    ]
+  },
+  {
+    "shortname": "上课热情",
+    "question": "老师在课堂上是否有热情，有一种想把知识交给你强烈的愿望与激情，没有仅仅是完成任务式的教学。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10,"back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 7,"back": 7 } },
+      { "text": "C.基本满意", "score": { "front": 0,"back": 0 } },
+      { "text": "D.不太满意", "score": { "front": -5,"back": -5 } },
+      { "text": "E.非常不满意", "score": { "front": -10,"back": -10 } }
+    ]
+  },
+  {
+    "shortname": "备课充分",
+    "question": "老师是否备课充分，熟悉所教内容，无知识性错误。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10,"back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 7,"back": 7 } },
+      { "text": "C.基本满意", "score": { "front": 0,"back": 0 } },
+      { "text": "D.不太满意", "score": { "front": -5,"back": -5 } },
+      { "text": "E.非常不满意", "score": { "front": -10,"back": -10 } }
+    ]
+  },
+  {
+    "shortname": "讲课清晰",
+    "question": "老师是否讲课思路清晰，知识、概念的阐述是否清晰准确。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10,"back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 7,"back": 7 } },
+      { "text": "C.基本满意", "score": { "front": 0,"back": 0 } },
+      { "text": "D.不太满意", "score": { "front": -5,"back": -5 } },
+      { "text": "E.非常不满意", "score": { "front": -10,"back": -10 } }
+    ]
+  },
+  {
+    "shortname": "课程信息量",
+    "question": "老师上课课程信息量是否足够，课程内容充实。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10,"back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 7,"back": 7 } },
+      { "text": "C.基本满意", "score": { "front": 0,"back": 0 } },
+      { "text": "D.不太满意", "score": { "front": -5,"back": -5 } },
+      { "text": "E.非常不满意", "score": { "front": -10,"back": -10 } }
+    ]
+  },
+  {
+    "shortname": "课程深度",
+    "question": "老师对得点难点的讲解是否有深度。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10,"back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 7,"back": 7 } },
+      { "text": "C.基本满意", "score": { "front": 0,"back": 0 } },
+      { "text": "D.不太满意", "score": { "front": -5,"back": -5 } },
+      { "text": "E.非常不满意", "score": { "front": -10,"back": -10 } }
+    ]
+  },
+  {
+    "shortname": "关注学员消化",
+    "question": "老师在课堂上是否乐于提问，关注你的消化、吸收情况。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10,"back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 7,"back": 7 } },
+      { "text": "C.基本满意", "score": { "front": 0,"back": 0 } },
+      { "text": "D.不太满意", "score": { "front": -5,"back": -5 } },
+      { "text": "E.非常不满意", "score": { "front": -10,"back": -10 } }
+    ]
+  },
+  {
+    "shortname": "学生学习效果",
+    "question": "你对该老师所讲的课程内容消化、吸收情况如何，也就是学习效果如何。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10,"back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 7,"back": 7 } },
+      { "text": "C.基本满意", "score": { "front": 0,"back": 0 } },
+      { "text": "D.不太满意", "score": { "front": -5,"back": -5 } },
+      { "text": "E.非常不满意", "score": { "front": -10,"back": -10 } }
+    ]
+  },
+  {
+    "shortname": "激发能力",
+    "question": "老师在教学中能否激发学生的学习兴趣，发挥学生的学习主动性，培养学生独立思考和勇于创新的精神？也就是教师的激发能力如何。",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10,"back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 7,"back": 7 } },
+      { "text": "C.基本满意", "score": { "front": 0,"back": 0 } },
+      { "text": "D.不太满意", "score": { "front": -5,"back": -5 } },
+      { "text": "E.非常不满意", "score": { "front": -10,"back": -10 } }
+    ]
+  },
+  {
+    "shortname": "总体评价",
+    "question": "你对该授课老师的总体评价是？",
+    "answers": [
+      { "text": "A.非常满意", "score": { "front": 10,"back": 10 } },
+      { "text": "B.比较满意", "score": { "front": 7,"back": 7 } },
+      { "text": "C.基本满意", "score": { "front": 0,"back": 0 } },
+      { "text": "D.不太满意", "score": { "front": -5,"back": -5 } },
+      { "text": "E.非常不满意", "score": { "front": -10,"back": -10 } }
+    ]
+  }]
+}
