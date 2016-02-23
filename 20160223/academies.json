@@ -1,1 +1,54 @@
-{"Java学院":{"emails":[],"subjects":{"JavaEE":{"emails":[],"questions":[]},"Android":{"emails":[],"questions":[]}},"questions":[]},"PHP学院":{"emails":[],"subjects":{"PHP":{"emails":[],"questions":[]}},"questions":[]},"UI设计学院":{"emails":[{"name":"张鹏","title":"院长","email":"zp@itcast.cn"},{"name":"马瑞霞","title":"文员","email":"maruixia@itcast.cn"}],"subjects":{"UI设计":{"emails":[{"name":"李凤辉","title":"总监","email":"lfh@itcast.cn"},{"name":"魏源源","title":"总监助理","email":"weiyuanyuan@itcast.cn"},{"name":"陈亚坤","title":"组长","email":"chenyakun@itcast.cn"},{"name":"恩意","title":"组长","email":"enyi@itcast.cn"}],"questions":[]}},"questions":[]},"iOS学院":{"emails":[],"subjects":{"iOS":{"emails":[],"questions":[]}},"questions":[]},"电子商务学院":{"emails":[],"subjects":{"网络营销":{"emails":[],"questions":[]}},"questions":[]},"C/C++学院":{"emails":[],"subjects":{"游戏开发":{"emails":[],"questions":[]}},"questions":[]},"前端与移动开发学院":{"emails":[{"name":"马伦","title":"院长","email":"malun@itcast.cn"},{"name":"张妍","title":"文员","email":"zy@itcast.cn"}],"subjects":{"前端与移动开发":{"emails":[{"name":"刘晓强","title":"总监","email":"liuxq@itcast.cn"},{"name":"牛亮亮","title":"助理","email":"nll@itcast.cn"},{"name":"王书奎","title":"组长","email":"wangshukui@itcast.cn"},{"name":"江佳恒","title":"组长","email":"jiangjiaheng@itcast.cn"},{"name":"汪磊","title":"组长","email":"wanglei3@itcast.cn"}],"questions":[]}},"questions":[]}}
+{
+  "Java": {
+    "emails": [
+      { "name": "汤阳光", "title": "院长", "email": "tyg@itcast.cn" },
+      { "name": "朱晓煜", "title": "院长文员", "email": "zhuxiaoyu@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "PHP": {
+    "emails": [
+      { "name": "李东超", "title": "院长", "email": "ldc@itcast.cn" },
+      { "name": "王金涛", "title": "院长助理", "email": "wangjintao@itcast.cn" },
+      { "name": "韩娜佳", "title": "院长文员", "email": "hannajia@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "UI设计": {
+    "emails": [
+      { "name": "张鹏", "title": "院长", "email":  "zp@itcast.cn" },
+      { "name": "马瑞霞", "title": "院长文员", "email": "maruixia@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "C/C++": {
+    "emails": [
+      { "name": "朱景尧", "title": "院长", "email": "zhujingyao@itcast.cn" },
+      { "name": "张波", "title": "院长助理", "email":  "zhangbo@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "iOS": {
+    "emails": [
+      { "name": "李伟", "title": "院长", "email":  "liwei@itcast.cn" },
+      { "name": "韩旭", "title": "院长助理", "email":  "hanxu@itcast.cn" },
+      { "name": "胡美玲", "title": "院长文员", "email": "humeiling@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "电子商务": {
+    "emails": [
+      { "name": "齐晓辉", "title": "院长", "email": "qxh@itcast.cn" },
+      { "name": "李艳艳", "title": "院长助理", "email": "liyanyan@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "前端与移动开发": {
+    "emails": [
+      { "name": "马伦", "title": "院长", "email":  "malun@itcast.cn" },
+      { "name": "牛亮亮", "title": "院长助理", "email": "nll@itcast.cn" },
+      { "name": "张研", "title": "院长文员", "email":  "zhangyan@itcast.cn" }
+    ],
+    "questions": []
+  }
+}

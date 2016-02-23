@@ -1,0 +1,15 @@
+{
+  "mail_server": {
+    "host": "smtp.exmail.qq.com",
+    "port": 25,
+    "secure": false,
+    "name": "传智播客讲师测评系统",
+    "auth": {
+      "user": "t1@wedn.net",
+      "pass": "2014@itcast"
+    }
+  },
+  "allow_student_repeat": false,
+  "allow_admin_rating": true,
+  "report_file_token": "wedn.net"
+}
