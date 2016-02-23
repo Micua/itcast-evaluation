@@ -11,7 +11,7 @@
       { "name": "杜宏", "title": "JavaEE项目1组组长", "email": "duhong@itcast.cn" },
       { "name": "赵庆轩", "title": "JavaEE项目2组组长", "email": "zqx@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "Android",
@@ -23,7 +23,7 @@
       { "name": "金兴", "title": "Android基础组组长", "email": "jinxing@itcast.cn" },
       { "name": "邱本超", "title": "Android项目组组长", "email": "qiubenchao@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "C/C++",
@@ -32,7 +32,7 @@
     "emails": [
       { "name": "王保明", "title": "教学总监", "email": "wbm@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "PHP",
@@ -42,7 +42,7 @@
       { "name": "罗弟华", "title": "教学总监", "email": "ldh@itcast.cn" },
       { "name": "孙书华", "title": "教学总监助理", "email": "ssh@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "UI设计",
@@ -54,7 +54,7 @@
       { "name": "任路江", "title": "UI设计组长", "email": "renlujiang@itcast.cn" },
       { "name": "王宾", "title": "UI设计组长", "email": "wangbin@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "iOS",
@@ -71,7 +71,7 @@
       { "name": "惠东鹏", "title": "iOS第三阶段小组组长", "email": "huidongpeng@itcast.cn" },
       { "name": "张效良", "title": "iOS第三阶段小组副组长", "email": "zhangxiaoliang@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "前端与移动开发",
@@ -83,14 +83,14 @@
       { "name": "汪磊", "title": "前端组长", "email": "wanglei3@itcast.cn" },
       { "name": "王书奎", "title": "前端组长", "email": "wangshukui@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "电子商务",
     "academy": "电子商务",
     "school": "北京",
     "emails": [],
-    "question": []
+    "questions": []
   },
   {
     "name": "JavaEE",
@@ -101,7 +101,7 @@
       { "name": "张志君", "title": "JavaEE组长", "email": "zhangzhijun@itcast.cn" },
       { "name": "屈博", "title": "JavaEE组长", "email": "qubo@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "Android",
@@ -110,7 +110,7 @@
     "emails": [
       { "name": "马伟奇", "title": "教学总监", "email": "maweiqi@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "PHP",
@@ -119,7 +119,7 @@
     "emails": [
       { "name": "孙静", "title": "教学总监", "email": "sunjing@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "UI设计",
@@ -131,7 +131,7 @@
       { "name": "任路江", "title": "UI设计组长", "email": "renlujiang@itcast.cn" },
       { "name": "王宾", "title": "UI设计组长", "email": "wangbin@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "iOS",
@@ -140,7 +140,7 @@
     "emails": [
       { "name": "赵晓虎", "title": "教学总监", "email": "zxh@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "JavaEE/Android",
@@ -151,7 +151,7 @@
       { "name": "郑楚峰", "title": "教学总监助理", "email": "zhengchufeng@itcast.cn" },
       { "name": "钟太潋", "title": "Java组长", "email": "ztl@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "PHP",
@@ -160,7 +160,7 @@
     "emails": [
       { "name": "马浩洋", "title": "教学总监", "email": "mhy@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "UI设计",
@@ -169,7 +169,7 @@
     "emails": [
       { "name": "李晨", "title": "教学总监", "email": "lichen@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "iOS",
@@ -178,7 +178,7 @@
     "emails": [
       { "name": "刘天源", "title": "教学总监", "email": "liutianyuan@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "Android",
@@ -187,7 +187,7 @@
     "emails": [
       { "name": "张泽华", "title": "教学总监", "email": "zzh@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "iOS",
@@ -196,7 +196,7 @@
     "emails": [
       { "name": "王绚文", "title": "教学总监", "email": "wxw@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "Android",
@@ -205,7 +205,7 @@
     "emails": [
       { "name": "曹睿", "title": "教学总监", "email": "caorui@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "UI设计",
@@ -214,7 +214,7 @@
     "emails": [
       { "name": "谭周洲", "title": "教学总监", "email": "tanzhouzhou@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "iOS",
@@ -223,7 +223,7 @@
     "emails": [
       { "name": "张扬波", "title": "教学总监", "email": "zyb@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "Android",
@@ -233,7 +233,7 @@
       { "name": "陈文", "title": "教学总监", "email": "chenwen@itcast.cn" },
       { "name": "刘亚超", "title": "Android组长", "email": "lyc@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   },
   {
     "name": "Android",
@@ -242,6 +242,6 @@
     "emails": [
       { "name": "刘意", "title": "教学总监", "email": "liuyi@itcast.cn" }
     ],
-    "question": []
+    "questions": []
   }
 ]

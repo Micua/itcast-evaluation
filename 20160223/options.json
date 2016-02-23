@@ -1,4 +1,6 @@
 {
+  "app_name": "教学测评系统",
+  "app_version": "2.0.0",
   "mail_server": {
     "host": "smtp.exmail.qq.com",
     "port": 25,
