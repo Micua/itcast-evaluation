@@ -1,0 +1,80 @@
+{
+  "北京": {
+    "emails": [
+      { "name": "景鑫", "title": "就业主管", "email": "jingxin@itcast.cn" },
+      { "name": "阳敏", "title": "学工主管", "email": "yangmin@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "上海": {
+    "emails": [
+      { "name": "王强", "title": "校长", "email": "wangqiang@itcast.cn" },
+      { "name": "唐小平", "title": "学工部主管", "email": "tangxiaoping@itcast.cn" },
+      { "name": "高大东", "title": "就业部主管", "email": "gaodadong@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "广州": {
+    "emails": [
+      { "name": "张晓", "title": "校长", "email": "zhangxiao@itcast.cn" },
+      { "name": "黄媚", "title": "学工部主管", "email": "huangmei@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "深圳": {
+    "emails": [
+      { "name": "付东", "title": "校长", "email": "fd@itcast.cn" },
+      { "name": "张海霞", "title": "学工部主管", "email": "zhanghaixia@itcast.cn" },
+      { "name": "黄宵庆", "title": "就业部主管", "email": "huangxiaoqing@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "武汉": {
+    "emails": [
+      { "name": "何家旺", "title": "校长", "email": "hjw@itcast.cn" },
+      { "name": "田亮", "title": "就业部主管", "email": "tianliang@itcast.cn" },
+      { "name": "张彬", "title": "就业部主管助理", "email": "zhangbin@itcast.cn" },
+      { "name": "张瑞利", "title": "学工部主管", "email": "zhangruili@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "郑州": {
+    "emails": [
+      { "name": "苏坤", "title": "校长", "email": "sk@itcast.cn" },
+      { "name": "陈文", "title": "Java总监", "email": "chenwen@itcast.cn" },
+      { "name": "吕叶", "title": "学工组长", "email": "lvye@itcast.cn" },
+      { "name": "李佩倩", "title": "人事主管", "email": "lipeiqian@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "西安": {
+    "emails": [
+      { "name": "焦宁波", "title": "校长", "email": "jnb@itcast.cn" },
+      { "name": "张瑜", "title": "学工部主管", "email": "zhangyu@itcast.cn" },
+      { "name": "付鼎程", "title": "就业部主管", "email": "fudingcheng@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "长沙": {
+    "emails": [
+      { "name": "覃基权", "title": "校长", "email": "qinjiquan@itcast.cn" },
+      { "name": "张美", "title": "助教主管", "email": "zhangmei@itcast.cn" },
+      { "name": "阳丹", "title": "就业部主管", "email": "yangdan@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "重庆": {
+    "emails": [
+      { "name": "马可", "title": "校长", "email": "make@itcast.cn" },
+      { "name": "陈文", "title": "学工部主管", "email": "chenw@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "济南": {
+    "emails": [
+      { "name": "王昭珽", "title": "校长", "email": "wzt@itcast.cn" },
+      { "name": "唐楷林", "title": "学工部主管", "email": "tangjielin@itcast.cn" }
+    ],
+    "questions": []
+  }
+}

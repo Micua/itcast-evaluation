@@ -1,0 +1,54 @@
+{
+  "Java": {
+    "emails": [
+      { "name": "汤阳光", "title": "院长", "email": "tyg@itcast.cn" },
+      { "name": "朱晓煜", "title": "院长文员", "email": "zhuxiaoyu@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "PHP": {
+    "emails": [
+      { "name": "李东超", "title": "院长", "email": "ldc@itcast.cn" },
+      { "name": "王金涛", "title": "院长助理", "email": "wangjintao@itcast.cn" },
+      { "name": "韩娜佳", "title": "院长文员", "email": "hannajia@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "UI设计": {
+    "emails": [
+      { "name": "张鹏", "title": "院长", "email":  "zp@itcast.cn" },
+      { "name": "马瑞霞", "title": "院长文员", "email": "maruixia@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "C/C++": {
+    "emails": [
+      { "name": "朱景尧", "title": "院长", "email": "zhujingyao@itcast.cn" },
+      { "name": "张波", "title": "院长助理", "email":  "zhangbo@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "iOS": {
+    "emails": [
+      { "name": "李伟", "title": "院长", "email":  "liwei@itcast.cn" },
+      { "name": "韩旭", "title": "院长助理", "email":  "hanxu@itcast.cn" },
+      { "name": "胡美玲", "title": "院长文员", "email": "humeiling@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "电子商务": {
+    "emails": [
+      { "name": "齐晓辉", "title": "院长", "email": "qxh@itcast.cn" },
+      { "name": "李艳艳", "title": "院长助理", "email": "liyanyan@itcast.cn" }
+    ],
+    "questions": []
+  },
+  "前端与移动开发": {
+    "emails": [
+      { "name": "马伦", "title": "院长", "email":  "malun@itcast.cn" },
+      { "name": "牛亮亮", "title": "院长助理", "email": "nll@itcast.cn" },
+      { "name": "张研", "title": "院长文员", "email":  "zhangyan@itcast.cn" }
+    ],
+    "questions": []
+  }
+}
