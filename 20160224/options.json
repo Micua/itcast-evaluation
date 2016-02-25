@@ -1,6 +1,6 @@
 {
   "app_name": "教学测评系统",
-  "app_version": "2.1.0",
+  "app_version": "2.2.0",
   "mail_server": {
     "host": "smtp.263.net",
     "port": 25,
