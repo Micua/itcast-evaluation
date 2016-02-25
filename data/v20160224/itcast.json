@@ -1,7 +1,4 @@
 {
-  "emails": [
-    { "name": "方立勋", "title": "副总裁", "email": "flx@itcast.cn"},
-    { "name": "冯威", "title": "副总裁", "email": "fw@itcast.cn" }
-  ],
+  "emails": [],
   "questions": ["2015", "2016"]
 }
