@@ -1,0 +1,17 @@
+{
+  "app_name": "教学测评系统",
+  "app_version": "2.2.0",
+  "mail_server": {
+    "host": "smtp.263.net",
+    "port": 25,
+    "secure": false,
+    "name": "教学测评系统·传智播客",
+    "auth": {
+      "user": "pingfen@itcast.cn",
+      "pass": "123456A"
+    }
+  },
+  "allow_student_repeat": false,
+  "allow_admin_rating": true,
+  "report_file_token": "wedn.net"
+}
